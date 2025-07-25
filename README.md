@@ -97,4 +97,7 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 - [Microsoft Server & Event Log Security](https://learn.microsoft.com)  
 
 
-
+## 👤 Author
+**Ifeanyi Christian Edeh**  
+Cybersecurity Specialist  
+[LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
