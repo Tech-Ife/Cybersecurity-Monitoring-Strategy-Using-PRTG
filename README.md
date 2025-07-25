@@ -73,7 +73,6 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 ###  Executive Briefing Presentation
 >  [View Presentation Summary](https://www.loom.com/share/1a444a32168b45f0b4c594d37f65153c)
 
----
 
 
 ## 📁 Project File
@@ -82,9 +81,10 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 
 ## Screenshots Sensors Deployment 
 
-| ![Deployment](screenshots/sensor-deployment.png) | 
+| ![Deployment](Docs/Sensors_Deployment.png) | 
+ **This dashboard provides a visual representation of the sensor deployment strategy across Big Dog’s network**
 
-> 📸 Screenshots are simulated to reflect sensor status and system performance as of March 2025 during the Cat Scan II project.
+---
 
 ##  References
 
