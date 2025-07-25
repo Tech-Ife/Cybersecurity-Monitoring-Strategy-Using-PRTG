@@ -80,7 +80,7 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 
 ---
 
-## Screenshots Sensors Deployment 
+## Screenshot 
 
 | ![Deployment](Docs/Sensors_Deployment.png) | 
 - *This dashboard provides a visual representation of the sensor deployment strategy across Big Dog’s network*
