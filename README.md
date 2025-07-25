@@ -75,7 +75,7 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 
 ---
 
-## 📁 Project File
+##  Project File
 [Cybersecurity Monitoring Strategy Using PRTG, A Risk and Vulnerability Report (pdf)](Docs/Cybersecurity_Monitoring_Strategy_Using_PRTG_A_Risk_And_Vulnerability_Report.pdf)
 
 ---
@@ -97,7 +97,7 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 - [Microsoft Server & Event Log Security](https://learn.microsoft.com)  
 
 
-## 👤 Author
+##  Author
 **Ifeanyi Christian Edeh**  
 Cybersecurity Specialist  
 [LinkedIn Profile](https://www.linkedin.com/in/ifeanyiedeh)
