@@ -73,16 +73,17 @@ The project followed a structured four-phase methodology, aligned with NIST RMF 
 ###  Executive Briefing Presentation
 >  [View Presentation Summary](https://www.loom.com/share/1a444a32168b45f0b4c594d37f65153c)
 
-
+---
 
 ## 📁 Project File
+[Cybersecurity Monitoring Strategy Using PRTG, A Risk and Vulnerability Report (pdf)](Docs/Cybersecurity_Monitoring_Strategy_Using_PRTG_A_Risk_And_Vulnerability_Report.pdf)
 
-
+---
 
 ## Screenshots Sensors Deployment 
 
 | ![Deployment](Docs/Sensors_Deployment.png) | 
- **This dashboard provides a visual representation of the sensor deployment strategy across Big Dog’s network**
+- *This dashboard provides a visual representation of the sensor deployment strategy across Big Dog’s network*
 
 ---
 
