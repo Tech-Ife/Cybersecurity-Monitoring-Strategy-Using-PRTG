@@ -1,6 +1,6 @@
 # Cybersecurity-Monitoring-Strategy-Using-PRTG
 
-## Project Overview
+##  Overview
 
 This project simulates the development and implementation of a proactive cybersecurity monitoring strategy for a fictional organization, **Big Dog Enterprise**. The core objective is to secure business-critical assets by aligning monitoring tools with organizational risk levels and established industry frameworks like **NIST CSF**, **MITRE ATT&CK**, and **CIS Controls**.
 
